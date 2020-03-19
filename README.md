@@ -14,9 +14,12 @@ _unity_nashelper_ allows storage admin to create snapshots of filesystems.
 In order to run python scripts in _Unity_ console service account logged in have to perform the following steps:
 
 - disable restricted shell via uemcli (by default is enabled)
-  _uemcli -silent /sys/security set -restrictedShellEnabled no_
+ 
+ _uemcli -silent /sys/security set -restrictedShellEnabled no_
   after issuing this command user have to re-login to the service console to take effect in the shell.
+
 - cache admin credential so that password is not requested during step execution for tasks automation.
+
 _uemcli -u admin -securePassword -saveUser_
 
 Once these preparation steps are completed it's possible to run the script:
