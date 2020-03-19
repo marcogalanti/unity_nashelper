@@ -17,7 +17,7 @@ In order to run python scripts in _Unity_ console service account logged in have
  
  _uemcli -silent /sys/security set -restrictedShellEnabled no_
  
-after issuing this command user have to re-login to the service console start using the unrestricted shell.
+after issuing this command users have to re-login to the service console start using the unrestricted shell.
 
 - cache admin credential so that password is not requested during step execution for tasks automation.
 
