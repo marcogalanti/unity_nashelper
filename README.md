@@ -9,6 +9,8 @@ Unity nas helper is useful to automate the task of creating Proxy NAS server and
 This helper also makes easy to list items such as NAS servers, filesystems, shares and snapshots.
 _unity_nashelper_ allows storage admin to create snapshots of filesystems.
 
+![](https://my.one.dell.com/personal/galanm/Documents/ProxyNAS.GIF)
+
 # Setup
 
 In order to run python scripts in _Unity_ console service account logged in have to perform the following steps:
