@@ -9,7 +9,7 @@ Unity nas helper is useful to automate the task of creating Proxy NAS server and
 This helper also makes easy to list items such as NAS servers, filesystems, shares and snapshots.
 _unity_nashelper_ allows storage admin to create snapshots of filesystems.
 
-![](https://my.one.dell.com/personal/galanm/Documents/ProxyNAS.GIF)
+![](https://lh3.googleusercontent.com/jzJU_F6exTv-AdKbQ_IKkCEJtNqzHWcsRg90dmvt7XID9L8YFYBCipbYvqn7DNi2Raf_=s151)
 
 # Setup
 
